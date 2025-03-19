@@ -1,6 +1,6 @@
 ### Name: DIVYA LAKSHMI M
 ### Reg.No: 212224040082
-## Study-of-basic-gates
+## Exp 1: Study-of-basic-gates
 
 **Aim:** 
 
