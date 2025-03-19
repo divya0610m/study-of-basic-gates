@@ -1,8 +1,8 @@
-#### NAME: DIVYA LAKSHMI M
-#### REG.NO: 212224040082
-### Study-of-basic-gates
+### Name: DIVYA LAKSHMI M
+### Reg.No: 212224040082
+## Study-of-basic-gates
 
-**AIM:** 
+**Aim:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
@@ -64,15 +64,10 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM**
+**Program**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 ![ex 1 prog](https://github.com/user-attachments/assets/b06fd1ec-423d-43d5-a119-a06a921a4314)
-
-
- Developed by: DIVYA LAKSHMI M
- 
- RegisterNumber: 212224040082
  
 **Logic symbol & Truthtable**
 ![ex 1 k map](https://github.com/user-attachments/assets/7080e542-4e2d-48fc-b6d8-cc7d37e8d51a)
