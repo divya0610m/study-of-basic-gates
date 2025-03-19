@@ -1,3 +1,5 @@
+#### NAME: DIVYA LAKSHMI M
+#### REG.NO: 212224040082
 ### study-of-basic-gates
 
 **AIM:** 
@@ -73,7 +75,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
 **Logic symbol & Truthtable**
 ![ex 1 k map](https://github.com/user-attachments/assets/7080e542-4e2d-48fc-b6d8-cc7d37e8d51a)
-![ex 1 dia](https://github.com/user-attachments/assets/823ca1eb-9c4c-4719-b300-d60e287929c1)
+![ex 1 dia](https://github.com/user-attachments/assets/3ef2ed33-5ead-47b9-9a1e-8d86aa36430a)
 
 **RTL realization Output:** 
 ![ex 1 simu](https://github.com/user-attachments/assets/677de8b3-2c5e-45db-8f34-39de4beccf07)
